@@ -1,0 +1,22 @@
+{
+  "name": "ilmira",
+  "version": "0.0.1",
+  "description": "npm learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tregulovailmira/node_js_pt1.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ilmire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tregulovailmira/node_js_pt1/issues"
+  },
+  "homepage": "https://github.com/tregulovailmira/node_js_pt1#readme"
+}
